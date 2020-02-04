@@ -5,7 +5,7 @@ This tool can be used to draw near-circle polygons with selected radius on deskt
 
 ## Usage
 
-1) Move cursor to green circle at center and adjust radius
+1) Move cursor to green circle at center and adjust radius with mouse wheel
 2) Select Polygon tool on My Maps panel
 3) Click right mouse button on green circle at center
 
