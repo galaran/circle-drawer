@@ -1,6 +1,5 @@
 package me.galaran.tools
 
-import com.sun.awt.AWTUtilities
 import java.awt.*
 import java.awt.event.InputEvent
 import java.awt.event.MouseAdapter
@@ -84,7 +83,7 @@ object ScreenOverlay {
         w.setLocationRelativeTo(null)
         w.isVisible = true
         w.isAlwaysOnTop = true
-        AWTUtilities.setWindowOpaque(w, false) // This sets the background of the window to be transparent
+        w.background = Color(0, 0, 0, 0)
     }
 
     private fun drawCirclePolygon() {
