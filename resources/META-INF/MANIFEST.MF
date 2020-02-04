@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: me.galaran.tools.ScreenOverlay
+Main-Class: me.galaran.tools.CirclePolygonDrawer

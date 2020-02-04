@@ -11,7 +11,7 @@ import kotlin.math.roundToInt
 import kotlin.math.sin
 import kotlin.system.exitProcess
 
-object ScreenOverlay {
+object CirclePolygonDrawer {
 
     private const val WIN_SIZE = 800
     private const val CIRCLE_RADIUS_MIN = 100

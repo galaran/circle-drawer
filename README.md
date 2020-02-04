@@ -1,4 +1,4 @@
-# ScreenOverlay - simple tool to draw near-circle polygons for Google My Maps
+# CirclePolygonDrawer - simple tool to draw near-circle polygons on Google My Maps
 
 Google My Maps does not support shapes (circle, rectangle, etc) nor has public API to draw it programmatically as polygons.
 This tool can be used to draw near-circle polygons with selected radius on desktop with JRE (using `java.awt.Robot`)
